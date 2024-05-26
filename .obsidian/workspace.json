@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "9974428175b7de4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e1379817547baf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51734f5ce9f6a035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/1.6 Redes Confiaveis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea2a45e219364641",
+    "type": "split",
+    "children": [
+      {
+        "id": "271800f09dc7fc95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55eb2090502258b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5a1db03ae372c54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d98cf2436725f2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "478481093a68888e",
+    "type": "split",
+    "children": [
+      {
+        "id": "33255c2622938158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29324e6b8e5dace",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CCNA/1.6 Redes Confiaveis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "528b141c18748cef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CCNA/1.6 Redes Confiaveis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "450c7b53fd413050",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae39a969cb21c2da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CCNA/1.6 Redes Confiaveis.md"
+              }
+            }
+          },
+          {
+            "id": "cb735c80775ac6dd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "55eb2090502258b2",
+  "lastOpenFiles": [
+    "00 - IMG/Pasted image 20240525170116.png",
+    "CCNA/1.3 Topologia de Rede.md",
+    "00 - IMG/Pasted image 20240525170039.png",
+    "CCNA/1.6 Redes Confiaveis.md",
+    "CCNA/1.5 Acesso a Internet.md",
+    "00 - IMG/Pasted image 20240525160342.png",
+    "00 - IMG/Pasted image 20240525155352.png",
+    "2. Redes/2.4 LAN.md",
+    "CCNA/1.2 Componentes de Rede.md",
+    "00 - IMG/Pasted image 20240525130051.png",
+    "01- Propriedades/Versão 1.1.0 - 25.05.2024.md",
+    "01- Propriedades/LINKS.md",
+    "01- Propriedades/Cursos.md",
+    "00 - IMG/Pasted image 20240525125544.png",
+    "CCNA/1.3 Intermediarios.md",
+    "2. Redes/Protocolos/DNS.md",
+    "2. Redes/Protocolos/IP.md",
+    "CCNA",
+    "00 - IMG/Pasted image 20240504204739.png",
+    "2. Redes/2.2 Camadas.md",
+    "5. Blue Team/SIEM.md",
+    "2. Redes/Protocolos/FTP.md",
+    "2. Redes/Protocolos/HTTP.md",
+    "2. Redes/Protocolos/ICMP.md",
+    "2. Redes/Protocolos/DHCP.md",
+    "2. Redes/Protocolos/Ethernet.md",
+    "2. Redes/Protocolos/MAC.md",
+    "1. Cybersecurity/Cubo da Segurança.md",
+    "2. Redes/Protocolos/ARP.md",
+    "5. Blue Team/Firewall.md",
+    "5. Blue Team/Endpoint/Endpoint.md",
+    "5. Blue Team/Endpoint/Malwares baseados.md",
+    "00 - IMG/Pasted image 20240324165858.png",
+    "2. Redes/Protocolos/NTP.md",
+    "5. Blue Team/Endpoint",
+    "00 - IMG/Pasted image 20240324123703.png",
+    "00 - IMG/Pasted image 20240323222231.png",
+    "00 - IMG/Pasted image 20240323221658.png",
+    "2. Redes/Wireless",
+    "1. Cybersecurity/Attacks/Injection",
+    "1. Cybersecurity/Malwares",
+    "1. Cybersecurity/Attacks",
+    "1. Cybersecurity/Privacidade",
+    "6. Red Team/Information Gathering",
+    "6. Red Team/Information Gathering",
+    "6. Red Team/Information Gathering/OSINT",
+    "Sem título.canvas"
+  ]
+}
