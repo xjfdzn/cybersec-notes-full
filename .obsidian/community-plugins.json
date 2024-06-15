@@ -1,8 +1,13 @@
 [
   "table-editor-obsidian",
-  "obsidian-git",
   "heatmap-calendar",
   "colored-text",
   "obsidian-style-settings",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "tag-wrangler",
+  "templater-obsidian",
+  "obsidian-tagfolder",
+  "obsidian-relative-line-numbers",
+  "homepage"
 ]
