@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0076a95ef91ddf2d",
+        "id": "b6d3836476180c54",
         "type": "tabs",
         "children": [
           {
-            "id": "14f31b61eca5a609",
+            "id": "8310283fd3594c0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/CCNA.QUZ/QUIZ.3.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCNA/CCNA.QUZ/QUIZ.3.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCNA/CCNA.QUZ/QUIZ.3.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA/CCNA.QUZ/QUIZ.3.md"
+                "file": "Home.md"
               }
             }
           },
@@ -169,52 +169,52 @@
   },
   "active": "55eb2090502258b2",
   "lastOpenFiles": [
-    "CCNA/Modulo 3/3.7 Modelo TCP IP.md",
-    "CCNA/CCNA.QUZ/QUIZ.3.md",
-    "CCNA/CCNA.QUZ/QUIZ.2.md",
-    "CCNA/CCNA.QUZ/QUIZ-1.md",
+    "2. Redes/Portas.md",
+    "2. Redes/2.4 LAN.md",
+    "2. Redes/2.3 Protocolos.md",
+    "2. Redes/2.2 Camadas.md",
+    "2. Redes/2.1 Modelo OSI.md",
     "Home.md",
-    "CCNA/CCNA.QUZ",
-    "CCNA/CCNA.md",
-    "CCNA/Modulo 1/1.3 Topologia de Rede.md",
-    "CCNA/Modulo 1/1.5 Acesso a Internet.md",
-    "CCNA/Modulo 1/1.2 Componentes de Rede.md",
-    "00 - IMG/Pasted image 20240611211117.png",
-    "00 - IMG/Pasted image 20240611211154.png",
-    "CCNA/Modulo 4/4.4 Cabeamento UTP.md",
-    "00 - IMG/Pasted image 20240611212008.png",
-    "00 - IMG/Pasted image 20240611211901.png",
-    "00 - IMG/Pasted image 20240611211855.png",
-    "00 - IMG/Pasted image 20240611211806.png",
-    "00 - IMG/Pasted image 20240611211649.png",
-    "00 - IMG/Pasted image 20240611211605.png",
-    "00 - IMG/Pasted image 20240611211542.png",
-    "CCNA/Modulo 4/4.3 Cabeamento de Cobre.md",
-    "00 - IMG/Pasted image 20240611211455.png",
-    "CCNA/Modulo 4/4.2 Caracteristicas Camada Fisica.md",
-    "CCNA/Modulo 4/4.7.md",
-    "CCNA/Modulo 4/Sem título.md",
-    "CCNA/Modulo 4/4.6.md",
-    "CCNA/Modulo 4/4.5.md",
-    "CCNA/Modulo 4/4.1 Camada Fisica.md",
-    "7. Roadmap/roadmap.pdf",
-    "Exame1.md",
+    "2. Redes/CCNA/Exame1.md",
+    "00 - IMG/Pasted image 20240619004642.png",
+    "2. Redes/CCNA/Modulo 10/10.3 Configurar Gateway Padrão.md",
+    "00 - IMG/Pasted image 20240619005749.png",
+    "00 - IMG/Pasted image 20240619005737.png",
+    "00 - IMG/Pasted image 20240619005729.png",
+    "2. Redes/CCNA/Modulo 10/10.2 Configurar Interfaces.md",
+    "00 - IMG/Pasted image 20240619005338 1.png",
+    "00 - IMG/Pasted image 20240619005338.png",
+    "2. Redes/CCNA/Modulo 10/10.1 Configurar definições iniciais do roteador.md",
+    "2. Redes/CCNA/Modulo 10",
+    "00 - IMG/Pasted image 20240619004056.png",
+    "2. Redes/CCNA/Modulo 9/9.3 Descoberta de Vizinhos de IPv6.md",
+    "00 - IMG/Pasted image 20240619004031.png",
+    "00 - IMG/Pasted image 20240619004020.png",
+    "2. Redes/CCNA/Modulo 9/9.2 ARP.md",
+    "00 - IMG/Pasted image 20240619003918.png",
+    "2. Redes/CCNA/Modulo 9/9.1 MAC e IP.md",
+    "2. Redes/CCNA/Modulo 9",
+    "2. Redes/CCNA/Modulo 8/8.5 Introdução ao Roteamento.md",
+    "2. Redes/CCNA/Modulo 8/8.4 Como um Host Roteia.md",
+    "2. Redes/CCNA/Modulo 8/8.3 Pacote IPv6.md",
+    "2. Redes/CCNA/Modulo 8/8.2 Pacote IPv4.md",
+    "2. Redes/CCNA/Modulo 8/8.1 Camada de Rede.md",
+    "2. Redes/CCNA/Modulo 7/7.5 Encaminhamento de Quadros.md",
+    "2. Redes/CCNA/Modulo 8",
+    "2. Redes/CCNA/Modulo 7/7.4 Tabela de Endereços MAC.md",
+    "2. Redes/CCNA/Modulo 7/7.3 Endereços MAC.md",
+    "2. Redes/CCNA/Modulo 7/7.2 Endereços MAC e Hexadecimal.md",
+    "2. Redes/CCNA/Modulo 7/7.1 Encapsulamento Ethernet.md",
+    "2. Redes/CCNA/Modulo 7",
+    "2. Redes/CCNA/Modulo 6/6.6 Quadro de Enlace de Dados.md",
     "pininfo.md",
-    "CCNA/Modulo 2/-- Lab -- Clock Cisco IOS.md",
-    "CCNA/Modulo 2/2.5 - Revisão.md",
-    "CCNA/Modulo 2/2.4 Configuração Basica.md",
-    "CCNA/Modulo 2/2.3 Comandos Cisco IOS.md",
-    "CCNA/Modulo 2/2.2 Acesso ao Cisco IOS.md",
-    "CCNA/Modulo 2",
-    "CCNA/Modulo 1/1.8 Segurança de Rede.md",
-    "CCNA/Modulo 1/2 - Revisão.md",
-    "CCNA/Modulo 1",
-    "CCNA/Modulo 3",
-    "CCNA/Modulo 4",
-    "CCNA/Exame 2",
-    "CCNA",
-    "5. Blue Team/Endpoint",
-    "2. Redes/Wireless",
+    "2. Redes/CCNA/Modulo 6/6.5 Metodos de Controle de Acesso.md",
+    "2. Redes/CCNA/Modulo 6",
+    "2. Redes/CCNA/Modulo 5",
+    "2. Redes/CCNA/CCNA.QUZ",
+    "7. Roadmap/roadmap.pdf",
+    "2. Redes/CCNA/Modulo 2",
+    "2. Redes/CCNA/Modulo 1",
     "Sem título.canvas"
   ]
 }
